@@ -24,3 +24,5 @@ class MyApp extends StatelessWidget {
 }
 //store가 여러개면 ChangeNotifierProvider말고 MultiProvider를 쓰면 됨 
 //providers 프로퍼티에 ChangeNotifierProvider()를 전부 넣어주면 된다. 
+
+//pull한 폴더에서 만들었음 
